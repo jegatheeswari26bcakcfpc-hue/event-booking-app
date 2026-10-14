@@ -1,5 +1,6 @@
 design link -https://www.figma.com/design/1I0P2CrIwHczRUzSwlzEIH/Untitled?node-id=0-1&p=f&t=AvqcJ97uJDp37cHs-0
-Prototype link -
+Prototype link -https://www.figma.com/design/1I0P2CrIwHczRUzSwlzEIH/Untitled?node-id=0-1&p=f&t=AvqcJ97uJDp37cHs-0
+Prototype link 2 - https://www.figma.com/design/1I0P2CrIwHczRUzSwlzEIH/Untitled?node-id=0-1&t=AvqcJ97uJDp37cHs-1
 # Event Registration App 
 
 ##  Project Overview
